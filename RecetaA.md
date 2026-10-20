@@ -1,6 +1,6 @@
 Pasta cremosa con champiñones
 <br>
-<!-- Link: https://images.unsplash.com/photo-1473093295043-cdd812d0e601?w=900 -->
+![Pasta cremosa](https://images.unsplash.com/photo-1473093295043-cdd812d0e601?w=900)
 <img src="link" alt="Plato de pasta" width="600">
 <br><br>
 Ingredientes
