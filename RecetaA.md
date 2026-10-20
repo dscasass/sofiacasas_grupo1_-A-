@@ -24,4 +24,4 @@ Instrucciones
 <br>
 5. Incorpore la crema y revuelva suavemente.
 <br>
-2. Escurra la pasta y REZERBE un poco del agua de cocción.
+2. Escurra la pasta y reserve un poco del agua de cocción.
